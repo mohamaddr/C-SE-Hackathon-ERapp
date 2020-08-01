@@ -6,8 +6,8 @@
         </p></div>  
             <div class="row">
             <div class="col-lg-5 mx-auto mb-4">
-              <img class="img-fluid d-block mx-auto" src="https://blooming-plains-65226.herokuapp.com/assets/img/gallery/img-4.png"  width="500px" height="350">
-               <img class="img-fluid d-block mx-auto" src="https://blooming-plains-65226.herokuapp.com/assets/img/gallery/ER.png"  width= "500px" height="350">
+              <img class="img-fluid d-block mx-auto" src="https://blooming-plains-65226.herokuapp.com/assets/img/gallery/img-4.png"  width="450px" height="350">
+               <img class="img-fluid d-block mx-auto" src="https://blooming-plains-65226.herokuapp.com/assets/img/gallery/ER.png"  width= "450px" height="350">
             </div>
           </div>
             <div class="col-md-12 mx-auto">
