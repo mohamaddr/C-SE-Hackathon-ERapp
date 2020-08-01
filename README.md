@@ -7,7 +7,7 @@
             <div class="row">
             <div class="col-lg-5 mx-auto mb-4">
               <img class="img-fluid d-block mx-auto" src="https://blooming-plains-65226.herokuapp.com/assets/img/gallery/img-4.png" align="right" alt="" style="max-width:200px">
-               <img class="img-fluid d-block mx-auto" src="https://blooming-plains-65226.herokuapp.com/assets/img/gallery/ER.png" align="right"style="max-width:200px">
+               <img class="img-fluid d-block mx-auto" src="https://blooming-plains-65226.herokuapp.com/assets/img/gallery/ER.png" align="left" "style="max-width:200px">
             </div>
           </div>
             <div class="col-md-12 mx-auto">
