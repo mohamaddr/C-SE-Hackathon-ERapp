@@ -2,7 +2,7 @@
             <div class="row">
               <div class="col-md-12 mx-auto">
                  <p class="mb-4">
-              Our mobile application aims to support the ER section at the hospital, by providing a registration form that can be filled with personal and medical information by the patient.
+         REMED-I aims to support the ER section at the hospital, by providing a registration form that can be filled with personal and medical information by the patient.
         </p></div>  
             <div class="row">
             <div class="col-lg-5 mx-auto mb-4">
